@@ -2,6 +2,10 @@
 
 This repository contains a comparative study of curriculum-based and random order learning approaches for training language models on Swahili text data. The project implements small-scale GPT-2 models ("GPT-Wee") trained on carefully organized data to compare the efficacy of these two learning strategies.
 
+## Collab Link
+
+[Code](https://colab.research.google.com/drive/1VtZzid1qpoBjYpYstksgD1tKRKPwcQGe?usp=sharing)
+
 ## Overview
 
 The study explores whether a language model trained with a curriculum (progressively increasing text complexity) outperforms one trained with randomly ordered data on grammatical knowledge acquisition in Swahili. We specifically measure this through a custom benchmark called SwaLiMP (Swahili Linguistic Minimal Pairs).
