@@ -161,10 +161,10 @@ Our experiments show that:
 
 - The curriculum learning model achieves better overall grammatical knowledge compared to the random order model
 - Performance varies across grammatical categories:
-  - Subject-Verb Agreement: [Results]
-  - Noun Class Agreement: [Results]
-  - Word Order: [Results]
-  - Tense Marking: [Results]
+  - Subject-Verb Agreement: [Results](plots/AAAsubjecgver.png)
+  - Noun Class Agreement: [Results](plots/AAAsubjecgver.png)
+  - Word Order: [Results](plots/AAAsubjecgver.png)
+  - Tense Marking: [Results](plots/AAAsubjecgver.png)
 - Training loss and evaluation loss curves show different learning dynamics between the two approaches
 
 ## Visualizations
